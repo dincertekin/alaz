@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-label="Alaz: fast, secure, private, productive">
+  <defs>
+    <linearGradient id="fire" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#FF3D17"/>
+      <stop offset="0.55" stop-color="#FF7A1A"/>
+      <stop offset="1" stop-color="#FFC233"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="400" fill="#0E0E10"/>
+
+  <!-- Flame: Alaz, the Turkic god of fire. The block inside is a terminal cursor: fire inside the machine. -->
+  <g transform="translate(604 58) scale(0.6)">
+    <path fill="url(#fire)" d="M60 0 C60 40 110 60 110 105 C110 137 88 164 60 164 C32 164 10 137 10 105 C10 80 24 64 34 48 C37 70 46 80 55 80 C49 56 50 26 60 0 Z"/>
+    <rect x="44" y="122" width="32" height="9" rx="1.5" fill="#0E0E10"/>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" text-anchor="middle">
+    <text x="640" y="272" fill="#F4F4F5" font-size="104" font-weight="700" letter-spacing="-2">alaz</text>
+    <text x="640" y="336" fill="#8B8B93" font-size="20" letter-spacing="5">fast · secure · private · productive</text>
+  </g>
+</svg>
