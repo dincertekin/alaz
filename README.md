@@ -34,7 +34,7 @@ Very early. Alaz currently has a 512-byte boot sector that prints a message usin
 
 ### Roadmap
 
-- [ ] Boot sector: 16-bit real mode, print to screen via BIOS
+- [x] Boot sector: 16-bit real mode, print to screen via BIOS
 - [ ] Load more sectors from disk
 - [ ] Enter 32-bit protected mode (GDT)
 - [ ] Enter 64-bit long mode (paging)
