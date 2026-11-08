@@ -4,12 +4,10 @@
 
 # Alaz
 
-<p>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dincertekin/dincertekin/main/assets/badges/c-assembly-dark.svg"><img src="https://raw.githubusercontent.com/dincertekin/dincertekin/main/assets/badges/c-assembly-light.svg" alt="C and Assembly" height="28"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dincertekin/dincertekin/main/assets/badges/x86-64-dark.svg"><img src="https://raw.githubusercontent.com/dincertekin/dincertekin/main/assets/badges/x86-64-light.svg" alt="x86_64" height="28"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dincertekin/dincertekin/main/assets/badges/early-days-dark.svg"><img src="https://raw.githubusercontent.com/dincertekin/dincertekin/main/assets/badges/early-days-light.svg" alt="Early days" height="28"></picture>
-  <a href="LICENSE"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dincertekin/dincertekin/main/assets/badges/mit-dark.svg"><img src="https://raw.githubusercontent.com/dincertekin/dincertekin/main/assets/badges/mit-light.svg" alt="MIT license" height="28"></picture></a>
-</p>
+![Architecture](https://img.shields.io/badge/arch-x86__64-blue)
+![Language](https://img.shields.io/badge/language-C%20%2B%20Assembly-lightgrey)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-early%20days-orange)
 
 A hobby operating system for x86_64, written from scratch in C and assembly. That includes its own bootloader, so nothing is borrowed from GRUB or any other existing OS.
 
